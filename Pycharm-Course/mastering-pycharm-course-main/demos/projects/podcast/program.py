@@ -11,9 +11,9 @@ def main():
     show_titles()
 
 def print_header():
-    print("------------------------------------------")
+    print("-------------------------------------------")
     print(f"  TALK PYTHON PODCAST DOWNLOADER v{__VERSION__}")
-    print("------------------------------------------")
+    print("-------------------------------------------")
 
 
 def show_titles():
