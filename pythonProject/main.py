@@ -11,6 +11,6 @@ def print_hi(name):
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    print_hi('Anotsshessr cccfact New PyCharm')
+    print_hi('Anotswwwshessr cccfact New PyCharm')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
